@@ -1,0 +1,200 @@
+{
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "1r6nj7lofj6v"
+      }
+    },
+    "type": "Entry",
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "recipe"
+      }
+    },
+    "id": "6RbVDNRM3eISwWSIyym8Wq",
+    "revision": 2,
+    "createdAt": "2016-02-09T18:38:36.648Z",
+    "updatedAt": "2016-02-09T19:45:00.529Z",
+    "locale": "de-DE"
+  },
+  "fields": {
+    "slug": "black-bean-chili",
+    "title": "Chili mit schwarzen Bohnen",
+    "subtitle": "Eine hervorragende vegetarische Abwandlung des Klassikers. Wohlgeformt, bauchwärmend und sättigend.",
+    "published": "2016-02-09T18:00+01:00",
+    "category": "dessert",
+    "author": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "4tq7FaxHdYgsqqyS0y8Cuc"
+        }
+      }
+    ],
+    "difficulty": 1,
+    "servings": 4,
+    "utensils": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "Nj3KzyiSWGMymIayyaACM"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "24TUuzDMbmOuO0kQ8SWeOG"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "2AFflGhBfeSaqm6EMKEOU2"
+        }
+      }
+    ],
+    "images": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Asset",
+          "id": "4FgreV82OAEKaY0W2mykuc"
+        }
+      }
+    ],
+    "cover": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Asset",
+        "id": "6o1f5Gf6PSCmw8I2CE0cIy"
+      }
+    },
+    "ingredients": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "6OC3cerZIIwgWM6C0Q8oAs"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "3v2xVURYVaWCAwUG8w40mI"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "3MetNcGnYk8yYmGwwoyeEa"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "4zxLC1E0XSsi26gkacc8wa"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "49VQROHbgkcYMOSCuKaCYU"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "6WUZZqCXv2Swq4AS8CC4EO"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "3Pjgd5QA52QwaWi6AecoyS"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "1UeccJ1fk0QC4IC4YCIU8O"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "5qJN893X7aYYgsgmYqucMi"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "5bTlTCrP9KouimI2sqoMSw"
+        }
+      }
+    ],
+    "longTime": true,
+    "preparation": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "3bTQxeoD166OM4ssCCGuaq"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "2zNOYjXXmAW8QI6IWyG86Y"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "4LhfZat6dqqi04uy0yC64K"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "6hMYOzQ4owAAegGwa0quKg"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Entry",
+          "id": "5yHzUGpCO4siiYKoeSsKC6"
+        }
+      }
+    ],
+    "skinny": false,
+    "vegetarisch": true,
+    "wine": "Ein kräftiger Rotwein, wie z.B. ein 2008 Riegle Cabernet Sauvignon passt hervorragend zu diesem oppulenten Gericht",
+    "dessert": "Zitronen-Limetten-Tarte",
+    "calories": 280,
+    "protein": 56,
+    "fat": 12,
+    "carbs": 86,
+    "id": "black-bean-chili"
+  }
+}

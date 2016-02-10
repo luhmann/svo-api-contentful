@@ -1,0 +1,932 @@
+{
+  "sys": {
+    "type": "Array"
+  },
+  "total": 1,
+  "skip": 0,
+  "limit": 100,
+  "items": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "1r6nj7lofj6v"
+          }
+        },
+        "type": "Entry",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "recipe"
+          }
+        },
+        "id": "6RbVDNRM3eISwWSIyym8Wq",
+        "revision": 1,
+        "createdAt": "2016-02-09T18:38:36.648Z",
+        "updatedAt": "2016-02-09T18:38:36.649Z",
+        "locale": "de-DE"
+      },
+      "fields": {
+        "slug": "black-bean-chili",
+        "title": "Chili mit schwarzen Bohnen",
+        "subtitle": "Eine hervorragende vegetarische Abwandlung des Klassikers. Wohlgeformt, bauchwärmend und sättigend.",
+        "published": "2016-02-09T18:00+01:00",
+        "category": "dessert",
+        "author": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4tq7FaxHdYgsqqyS0y8Cuc"
+            }
+          }
+        ],
+        "difficulty": 1,
+        "servings": 4,
+        "utensils": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "Nj3KzyiSWGMymIayyaACM"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "24TUuzDMbmOuO0kQ8SWeOG"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "2AFflGhBfeSaqm6EMKEOU2"
+            }
+          }
+        ],
+        "images": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "4FgreV82OAEKaY0W2mykuc"
+            }
+          }
+        ],
+        "cover": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6o1f5Gf6PSCmw8I2CE0cIy"
+          }
+        },
+        "ingredients": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6OC3cerZIIwgWM6C0Q8oAs"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3v2xVURYVaWCAwUG8w40mI"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3MetNcGnYk8yYmGwwoyeEa"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4zxLC1E0XSsi26gkacc8wa"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "49VQROHbgkcYMOSCuKaCYU"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6WUZZqCXv2Swq4AS8CC4EO"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3Pjgd5QA52QwaWi6AecoyS"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "1UeccJ1fk0QC4IC4YCIU8O"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "5qJN893X7aYYgsgmYqucMi"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "5bTlTCrP9KouimI2sqoMSw"
+            }
+          }
+        ],
+        "longTime": true,
+        "preparation": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3bTQxeoD166OM4ssCCGuaq"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "2zNOYjXXmAW8QI6IWyG86Y"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4LhfZat6dqqi04uy0yC64K"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6hMYOzQ4owAAegGwa0quKg"
+            }
+          },
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "5yHzUGpCO4siiYKoeSsKC6"
+            }
+          }
+        ],
+        "skinny": false,
+        "vegetarisch": true,
+        "wine": "Ein kräftiger Rotwein, wie z.B. ein 2008 Riegle Cabernet Sauvignon passt hervorragend zu diesem oppulenten Gericht",
+        "dessert": "Zitronen-Limetten-Tarte",
+        "calories": 280,
+        "protein": 56,
+        "fat": 12,
+        "carbs": 86
+      }
+    }
+  ],
+  "includes": {
+    "Entry": [
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "ingredient"
+            }
+          },
+          "id": "1UeccJ1fk0QC4IC4YCIU8O",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:15:14.749Z",
+          "updatedAt": "2016-02-09T18:15:14.749Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "amount": 1,
+          "label": "Karotte, gewürfelt"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "utensil"
+            }
+          },
+          "id": "24TUuzDMbmOuO0kQ8SWeOG",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:01:22.198Z",
+          "updatedAt": "2016-02-09T18:01:22.198Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "name": "Kochmesser"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "utensil"
+            }
+          },
+          "id": "2AFflGhBfeSaqm6EMKEOU2",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:01:49.663Z",
+          "updatedAt": "2016-02-09T18:01:49.663Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "name": "Sieb"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "step"
+            }
+          },
+          "id": "2zNOYjXXmAW8QI6IWyG86Y",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:27:19.376Z",
+          "updatedAt": "2016-02-09T18:27:19.376Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "number": 2,
+          "description": "Das Öl in einer Pfanne erhitzen. Die Zwiebel und den Knoblauch darin etwa 2 Minuten anbraten, bis die Zwiebel weich ist.",
+          "ingredients": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "3MetNcGnYk8yYmGwwoyeEa"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "4zxLC1E0XSsi26gkacc8wa"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "ingredient"
+            }
+          },
+          "id": "3MetNcGnYk8yYmGwwoyeEa",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:09:44.746Z",
+          "updatedAt": "2016-02-09T18:09:44.746Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "amount": 1,
+          "label": "Zwiebel, gehackt"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "ingredient"
+            }
+          },
+          "id": "3Pjgd5QA52QwaWi6AecoyS",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:14:31.781Z",
+          "updatedAt": "2016-02-09T18:14:31.781Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "amount": 1,
+          "label": "rote Paprika, gewürfelt"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "step"
+            }
+          },
+          "id": "3bTQxeoD166OM4ssCCGuaq",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:25:04.049Z",
+          "updatedAt": "2016-02-09T18:25:04.049Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "number": 1,
+          "description": "Die Bohnen über Nacht einweichen. Das Einweichwasser abgießen, die Bohnen in einen Topf geben, mit frischem Wasser bedecken und 10 Minuten kochen. Dann die Hitze reduzieren und die Bohnen etwa 1,5 Stunden garen. Anschließend gut abtropfen lassen. Etwa 225 ml des Kochsuds auffangen und bereitstellen ",
+          "ingredients": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "6OC3cerZIIwgWM6C0Q8oAs"
+              }
+            }
+          ],
+          "utensils": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "2AFflGhBfeSaqm6EMKEOU2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "ingredient"
+            }
+          },
+          "id": "3v2xVURYVaWCAwUG8w40mI",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:08:17.100Z",
+          "updatedAt": "2016-02-09T18:08:17.100Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "amount": 2,
+          "unit": "EL",
+          "label": "Olivenöl"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "ingredient"
+            }
+          },
+          "id": "49VQROHbgkcYMOSCuKaCYU",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:12:17.330Z",
+          "updatedAt": "2016-02-09T18:12:17.330Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "amount": 1,
+          "unit": "TL",
+          "label": "Kreuzkümmel"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "step"
+            }
+          },
+          "id": "4LhfZat6dqqi04uy0yC64K",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:30:07.191Z",
+          "updatedAt": "2016-02-09T18:30:07.191Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "number": 3,
+          "description": "Kreuzkümmel und Chilipulver zufügen und kurz mitbraten. Dann Paprika, Karotte und Tomaten zugeben und bei mittlerer Hitze etwa 5 Minuten dünsten.",
+          "ingredients": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "49VQROHbgkcYMOSCuKaCYU"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "6WUZZqCXv2Swq4AS8CC4EO"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "3Pjgd5QA52QwaWi6AecoyS"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "1UeccJ1fk0QC4IC4YCIU8O"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "5qJN893X7aYYgsgmYqucMi"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "author"
+            }
+          },
+          "id": "4tq7FaxHdYgsqqyS0y8Cuc",
+          "revision": 1,
+          "createdAt": "2016-02-09T17:49:18.848Z",
+          "updatedAt": "2016-02-09T17:49:18.848Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "name": "Florian"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "ingredient"
+            }
+          },
+          "id": "4zxLC1E0XSsi26gkacc8wa",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:10:30.304Z",
+          "updatedAt": "2016-02-09T18:10:30.304Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "amount": 5,
+          "label": "Knoblauchzehen, grob gehackt"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "ingredient"
+            }
+          },
+          "id": "5bTlTCrP9KouimI2sqoMSw",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:16:25.608Z",
+          "updatedAt": "2016-02-09T18:16:25.608Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "amount": 1,
+          "unit": "Bund",
+          "label": "Koriander, grob gehackt"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "ingredient"
+            }
+          },
+          "id": "5qJN893X7aYYgsgmYqucMi",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:15:49.116Z",
+          "updatedAt": "2016-02-09T18:15:49.116Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "amount": 400,
+          "unit": "g",
+          "label": "Tomaten, gewürfelt"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "step"
+            }
+          },
+          "id": "5yHzUGpCO4siiYKoeSsKC6",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:36:03.390Z",
+          "updatedAt": "2016-02-09T18:36:03.390Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "number": 5,
+          "description": "Den restlichen Koriander einstreuen, das fertige Chili abschmecken und sofort servieren.",
+          "ingredients": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "5bTlTCrP9KouimI2sqoMSw"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "ingredient"
+            }
+          },
+          "id": "6OC3cerZIIwgWM6C0Q8oAs",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:07:52.564Z",
+          "updatedAt": "2016-02-09T18:07:52.564Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "amount": 400,
+          "unit": "g",
+          "label": "schwarze Bohnen"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "ingredient"
+            }
+          },
+          "id": "6WUZZqCXv2Swq4AS8CC4EO",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:13:11.681Z",
+          "updatedAt": "2016-02-09T18:13:11.681Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "amount": 1,
+          "unit": "TL",
+          "label": "Chilipulver"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "step"
+            }
+          },
+          "id": "6hMYOzQ4owAAegGwa0quKg",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:35:14.814Z",
+          "updatedAt": "2016-02-09T18:35:14.814Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "number": 4,
+          "description": "Die Hälfte des Korianders, die Bohnen, den aufgefangenen Kochsud, sowie etwas Salz und Pfeffer zugeben und alles etwa 30-45 Minuten köcheln, bis die Sauce eingedickt ist.",
+          "ingredients": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "5bTlTCrP9KouimI2sqoMSw"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "6OC3cerZIIwgWM6C0Q8oAs"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "7FV5MVAnCweqCkoGkeGUaq"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "5C1Ua9EzSg4YQQAkguw2U4"
+              }
+            }
+          ],
+          "utensils": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "1T7gjqcxqoceASicGWmCCY"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Entry",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "utensil"
+            }
+          },
+          "id": "Nj3KzyiSWGMymIayyaACM",
+          "revision": 1,
+          "createdAt": "2016-02-09T17:59:53.627Z",
+          "updatedAt": "2016-02-09T17:59:53.627Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "name": "Schneidebrett"
+        }
+      }
+    ],
+    "Asset": [
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Asset",
+          "id": "4FgreV82OAEKaY0W2mykuc",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:04:17.805Z",
+          "updatedAt": "2016-02-09T18:04:17.805Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "title": "Schwarzes Bohnenchili",
+          "file": {
+            "fileName": "_MG_0551.jpg",
+            "contentType": "image/jpeg",
+            "details": {
+              "image": {
+                "width": 4242,
+                "height": 2828
+              },
+              "size": 5416353
+            },
+            "url": "//images.contentful.com/1r6nj7lofj6v/4FgreV82OAEKaY0W2mykuc/f666c17a664f755f625a12fe60302f65/_MG_0551.jpg"
+          }
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1r6nj7lofj6v"
+            }
+          },
+          "type": "Asset",
+          "id": "6o1f5Gf6PSCmw8I2CE0cIy",
+          "revision": 1,
+          "createdAt": "2016-02-09T18:07:09.517Z",
+          "updatedAt": "2016-02-09T18:07:09.517Z",
+          "locale": "de-DE"
+        },
+        "fields": {
+          "title": "Schwarzes Bohnen-Chili (Cover)",
+          "file": {
+            "fileName": "_MG_0613.jpg",
+            "contentType": "image/jpeg",
+            "details": {
+              "image": {
+                "width": 3822,
+                "height": 2828
+              },
+              "size": 2419852
+            },
+            "url": "//images.contentful.com/1r6nj7lofj6v/6o1f5Gf6PSCmw8I2CE0cIy/64630d5f32742f581d81f32d05443958/_MG_0613.jpg"
+          }
+        }
+      }
+    ]
+  }
+}
